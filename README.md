@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project is the first in a four-part data analyst portfolio series designed to showcase technical proficiency in exploratory data analysis (EDA)
+This project is designed to showcase technical proficiency in exploratory data analysis (EDA)
 . Using a global COVID-19 dataset, the project utilizes Microsoft SQL Server to uncover trends in infection rates, mortality statistics, and vaccination progress across various countries and continents
 . The final output includes a series of saved SQL Views intended for later visualization in Tableau
 .
